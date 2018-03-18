@@ -1,0 +1,36 @@
+{
+  "name": "gql-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zertz/gql-next.git"
+  },
+  "author": "Pier-Luc Gendreau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zertz/gql-next/issues"
+  },
+  "homepage": "https://github.com/Zertz/gql-next#readme",
+  "dependencies": {
+    "apollo-client-preset": "^1.0.8",
+    "classnames": "^2.2.5",
+    "graphql": "^0.13.1",
+    "graphql-anywhere": "^4.1.5",
+    "graphql-tag": "^2.8.0",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-apollo": "^2.0.4",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
+}
