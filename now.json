@@ -1,0 +1,8 @@
+{
+  "name": "gql-next",
+  "alias": "gql-next.pierluc.io",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "public": false
+}

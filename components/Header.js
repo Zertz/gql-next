@@ -36,11 +36,6 @@ export default ({ children }) => (
           <a>New Releases</a>
         </ActiveLink>
       </li>
-      <li>
-        <ActiveLink prefetch href="/album-finder">
-          <a>Album Finder</a>
-        </ActiveLink>
-      </li>
     </ul>
     <h1>{children}</h1>
   </header>
